@@ -1,4 +1,4 @@
-#  Writeup Hidden-in-PlainSight PicoCTF 2025
+#  Writeup Hidden-in-PlainSight PicoCTF 2025 (Forensics)
 
 Task: You are given a seemingly ordinary JPG Image. Something is tucked away out of sight inside the file. Your task is to disvoer the hidden paload and extract the flag.
 Download the jpg image provided.
