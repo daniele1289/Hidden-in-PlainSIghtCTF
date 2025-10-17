@@ -22,7 +22,7 @@ Step 3) At this current point, I was unsure how to decode the base-64 code given
  <img width="395" height="279" alt="image" src="https://github.com/user-attachments/assets/1213407b-d905-4a04-8a9f-d8c51bb1e776" />
 
 
- 
+ Final anwser: picoCTF{h1dd3n_1n_1m4g3_5d4cba73}
 
 
 
